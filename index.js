@@ -9,3 +9,4 @@ function hitLikes() {
   
 }
 btnLike1.addEventListener("click",hitLikes1)
+}
